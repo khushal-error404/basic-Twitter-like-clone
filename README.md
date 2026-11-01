@@ -8,10 +8,10 @@ A lightweight social media web application built with **Flask (Python)** simulat
 
 ## 👥 Team Members
 
-- **Khushal**
-- **Jivesh**
-- **Agrim**
-- **Vansh**
+- **Khushal** (Roll No: 2026UCB6560)
+- **Jivesh** (Roll No: 2026UCB6642)
+- **Agrim** (Roll No: 2026UCB6572)
+- **Vansh** (Roll No: 2026UCB6566)
 
 ---
 
